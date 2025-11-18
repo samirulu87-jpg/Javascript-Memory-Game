@@ -1,5 +1,5 @@
-This will include  ------
-Link to working site: 
+This will include  Comments about important or future usful informtion. 
+Link to working site: https://samirulu87-jpg.github.io/Javascript-Memory-Game/
 
 
       Style.css colration for the cards 
